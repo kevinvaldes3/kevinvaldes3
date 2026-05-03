@@ -137,9 +137,9 @@ UI moderna construida con PrimeNG sobre fondo oscuro.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conéctemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-Escríbeme-fca311?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Trabajemos%20juntos-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573XXXXXXXXX)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conéctemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/kevinvaldesh/))
+[![Email](https://img.shields.io/badge/Email-Escríbeme-fca311?style=for-the-badge&logo=gmail&logoColor=white)](kevinvaldes3@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Trabajemos%20juntos-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573043433695)
 
 </div>
 
